@@ -1,0 +1,17 @@
+-- CREATE TABLE Zareen (
+
+-- SNO TEXT PRIMARY KEY,
+
+-- SNAME TEXT,
+
+-- STATUS INTEGER,
+
+-- CITY TEXT
+
+-- );
+ INSERT INTO Zareen (SNO, SNAME, STATUS, CITY) VALUES
+
+('S3', 'Tasneem', 25, 'Khulna');
+
+SELECT * FROM Zareen;
+
